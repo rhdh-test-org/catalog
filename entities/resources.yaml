@@ -5,5 +5,4 @@ metadata:
   description: A collection of all resources
 spec:
   targets:
-    - ./resources/pgdb.yaml
-    - ./resources/github.yaml
+    - ./resources/rhdh-dast-jenkins-github.yaml
