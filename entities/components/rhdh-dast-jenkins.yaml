@@ -2,17 +2,16 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: rhdh-dast-jenkins
-  title: RHDH-DAST
+  title: RHDH DAST Jenkins
   description: |
-    RHDH-DAST Components
+    RHDH-DAST Jenkins Components
   annotations:
     quay.io/repository-slug: rhdh-dast/origin-jenkins
     github.com/project-slug: rhdh-dast/jenkins
 spec:
   type: website
   system: rhdh-dast-jenkins
-  owner: rhdh-dast-jenkins-authors
+  owner: rhdh-dast-authors
   lifecycle: production
   dependsOn:
-    - resource:pgdb
-    - resource:github
+    - resource:rhdh-dast-jenkins-github
