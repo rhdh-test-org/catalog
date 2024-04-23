@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: rhdh-dast
+  name: rhdh-dast-jenkins
   title: RHDH-DAST
   description: |
     RHDH-DAST Components
