@@ -5,4 +5,4 @@ metadata:
   description: A collection of all groups
 spec:
   targets:
-    - ./groups/rhdh-dast-authors.yaml
+    - ./groups/jenkins-authors.yaml

@@ -5,4 +5,4 @@ metadata:
   description: A collection of all resources
 spec:
   targets:
-    - ./resources/rhdh-dast-jenkins-github.yaml
+    - ./resources/jenkins-github.yaml

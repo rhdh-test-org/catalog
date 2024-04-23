@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: rhdh-dast-authors
+  name: jenkins-authors
   title: RHDH DAST Authors
 spec:
   type: team
