@@ -7,3 +7,11 @@ metadata:
     RHDH-DAST Components
   annotations:
     quay.io/repository-slug: rhdh-dast/origin-jenkins
+spec:
+  type: website
+  system: rhdh-dast
+  owner: rhdh-dast-authors
+  lifecycle: production
+  dependsOn:
+    - resource:pgdb
+    - resource:github
