@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhdh-dast-jenkins
+  title: RHDH DAST Jenkins
+spec:
+  owner: rhdh-dast-authors
