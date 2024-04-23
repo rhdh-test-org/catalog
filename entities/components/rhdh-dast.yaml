@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: quay
-  title: Quay
+  name: rhdh-dast
+  title: RHDH-DAST
   description: |
-    This is the Quay.io component
+    RHDH-DAST Components
   annotations:
     quay.io/repository-slug: rhdh-dast/origin-jenkins
