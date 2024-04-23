@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: rhdh-dast-authors
+  title: RHDH DAST Authors
+spec:
+  type: team
+  children: []
