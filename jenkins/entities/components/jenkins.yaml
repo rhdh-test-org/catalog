@@ -10,6 +10,7 @@ metadata:
     github.com/project-slug: rhdh-dast/jenkins
     backstage.io/kubernetes-id: rhdh-dast-jenkins
     backstage.io/kubernetes-namespace: rhdh-dast
+    janus-idp.io/tekton-enabled : true
 spec:
   type: website
   system: jenkins
