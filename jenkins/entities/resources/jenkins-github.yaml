@@ -5,7 +5,7 @@ metadata:
   title: GitHub Jenkins repository
   description: Where we store the source code for the Jenkins image
   links:
-    - url: https://github.com/rhdh-dast/jenkins
+    - url: https://github.com/rhdh-test-org/jenkins
       title: GitHub Repository
       icon: web
 spec:
